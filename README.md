@@ -1,2 +1,0 @@
-# cpgh pages lane
-synthetic
